@@ -1,0 +1,105 @@
+header{
+	background: #046634;
+	padding: 10px 0;
+}
+.menu ul li a{
+	color: #fff;
+	text-transform: uppercase;
+	margin-top: 55px;
+}
+.banner img{
+	width: 100%;
+}
+.banner{
+	margin-bottom: 20px
+}
+
+.category .imgg{
+	border-radius: 0;
+	border: none;
+}
+.category .imgg img{
+	width: 100%;
+	
+}
+.category .dess{
+	background: #046634!important;
+	border-radius: 0;
+	border: none;
+	text-transform: uppercase;
+}
+.category .dess h3{
+	font-weight: bold;
+}
+.product{
+	margin-top: 20px;
+
+}
+.product .danh-muc{
+background-image: url('..//images/icons/bg.png');
+background-repeat: no-repeat;
+text-align: center;
+margin: 0 auto;
+width: 250px;
+color: #fff;
+text-transform: uppercase;
+font-weight: bold;
+padding: 4px
+}
+.items{
+	border: 1px solid #046634;
+	padding-bottom: 2px;
+}
+.items .anh-sp img{
+	width: 100%;
+	margin-top: 20px
+}
+.items .prod {
+	background: #ebebeb;
+	padding: 10px;
+	color: #046634;
+}
+.items .prod p{
+	padding: 0;
+	text-transform: uppercase;
+}
+.items .prod h4{
+	margin: 0;
+	font-weight: bold;
+}
+.items .cart{
+	margin-top: 20px
+}
+.dich-vu{
+	background: #046634;
+	color: #fff;
+	padding: 4px;
+	line-height: 55px;
+	font-weight: bold;
+	text-transform: uppercase;
+	
+}
+.dich-vu .chu{
+	display: flex;
+}
+.dich-vu .hinh{
+	border: 1px solid #fff;
+	height: 55px;
+	width: 55px;
+	border-radius: 50%;
+	text-align: center;
+	font-size: 30px;
+	margin-right: 5px;
+}
+footer{
+	margin-top: 20px;
+}
+footer .lien-he{
+	width: 240px
+}
+.ban-quyen{
+	border-top: 1px solid #046634;
+	color:#046634; 
+	padding: 30px 0 10px 0;
+	margin-top: 20px
+}

@@ -1,0 +1,95 @@
+header {
+	background: #046634;
+	padding: 10px 0;
+	position: relative
+}
+
+header ul li{
+	background: none;
+	border: none;
+ color: #fff;
+ text-transform: uppercase;
+ padding-right: 35px;
+ padding-top: 53px;
+}
+.banner{
+margin-top: 1px;
+margin-bottom: 20px;
+}
+.banner img{
+	width: 100%
+}
+
+.product h3{
+	font-weight: bold;
+}
+.product .dess{
+	text-transform: uppercase;
+	background: #046634;
+	border-radius: 0;
+	border:  none;
+}
+.product .img{
+	border: none;
+
+}
+.product .img img{
+width: 100%
+}
+
+.pro-special .title{
+	background: url('../images/icons/bg.png');
+	background-repeat: no-repeat;
+	width: 250px;
+	margin: 0 auto;
+	text-align: center;
+	padding:3px;
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: bold;
+}
+.pro-special .items{
+	border: 1px solid #046634;
+}
+.pro-special .items .img-item img{
+	width: 100%
+}
+.pro-special .items .item .prop{
+	background: #ebebeb;
+	padding: 10px 10px 0 10px;
+}
+.items .item .prop .cart{
+	margin-top: 10px;
+}
+.pro-special{
+	margin-bottom: 20px;
+}
+.dv{
+	background:#046634;
+	color: #fff;
+	padding: 3px 3px 0 3px;
+}
+.dv .ht {
+	border: 1px solid #fff;
+	width: 55px;
+	height: 55px;
+	border-radius: 50%;
+	line-height: 55px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+	margin-right: 10px
+}
+.dv .dess{
+	display: flex;
+	line-height: 50px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.bot{
+	border-top: 1px solid #94c644;
+	padding: 20px;
+}
+footer{
+	margin: 20px 0;
+}
